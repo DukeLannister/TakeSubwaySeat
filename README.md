@@ -17,4 +17,4 @@
 
 <br>
 由于是原型阶段，缺少细节和美术资源，但是该原型已经能表达出核心玩法和游戏乐趣了。<br>
-！[Image_4242](https://user-images.githubusercontent.com/44309413/109392365-ad811b80-7956-11eb-80e8-8faa886730ff.PNG)
+![Image_4242](https://user-images.githubusercontent.com/44309413/109392365-ad811b80-7956-11eb-80e8-8faa886730ff.PNG)
